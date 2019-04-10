@@ -1,3 +1,3 @@
 # codewars-kata
 
-![alt text](https://github.com/ElenaSamanchuk/codewars-kata/blob/master/img/Opposite-number.jpg)
+[https://www.codewars.com/users/ElenaSamanchuk](https://www.codewars.com/users/ElenaSamanchuk)
